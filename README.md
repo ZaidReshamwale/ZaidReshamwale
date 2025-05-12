@@ -1,16 +1,21 @@
 <h1 align="center">Hi 👋, I'm MohammedZaid Reshamwale</h1>
-<h3 align="center">🚀 Passionate Software Developer from India</h3>
+<h3 align="center">A passionate Software Developer from India.</h3>
 
----
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mdzaidreshamwale&label=Profile%20views&color=0e75b6&style=flat" alt="mdzaidreshamwale" />
+</p>
 
 - 🔭 Currently working as **Software Engineer at Synchronoss Technologies**
+
+- 👨‍💻 All of my projects are available at [zaidreshamwale.000webhostapp.com](https://zaidreshamwale.000webhostapp.com/)
+
 - 💬 Ask me about **React, PWA, ES6, Ionic, Android, Web/Hybrid App, Bootstrap, Jest, BEM styling, SD skills**
-- 📫 Reach me at **zaidreshamwale2015@gmail.com**
-- 🌐 Portfolio: [zaidreshamwale.000webhostapp.com](https://zaidreshamwale.000webhostapp.com/)
-- ⚡ Fun fact: *It compiles, ship it.*
+
+- 📫 How to reach me: **zaidreshamwale2015@gmail.com**
+
+- ⚡ Fun fact: **It compiles, ship it.**
 
 ---
-
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
@@ -40,10 +45,12 @@
 
 ---
 
-### 📫 Connect with Me
+### 📈 GitHub Stats
 
-<p align="left">
-  <a href="mailto:zaidreshamwale2015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mdzaidreshamwale/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://zaidreshamwale.000webhostapp.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaidreshamwale&show_icons=true&locale=en&layout=compact" alt="zaidreshamwale" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidreshamwale&" alt="zaidreshamwale" />
 </p>
