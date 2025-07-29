@@ -48,9 +48,14 @@
 
 ### 📈 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaidreshamwale&show_icons=true&locale=en&layout=compact" alt="zaidreshamwale" />
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=zaidreshamwale&show_icons=true&locale=en&layout=compact&theme=radical" 
+    alt="Top Languages by Zaid Reshamwale" 
+    width="400"
+/>
 </p>
+
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidreshamwale&" alt="zaidreshamwale" />
